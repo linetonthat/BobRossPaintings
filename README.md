@@ -1,8 +1,7 @@
 # Bob Ross paintings | Add labels for types of painting element and groups of categories
 This is part of data preparation for MakeoverMonday 2020 Week 50. The topic is the elements in the paintings of Bob Ross. More info on: __[FiveThirtyEight](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/)__.
 
-**Dataset with the addition of labels for types and categories of elements from paintings by Bob Ross**: See __[this Excel file
-](https://github.com/linetonthat/BobRossPaintings/blob/main/Treated_data/categorized_elements_by_episode.xlsx)__.
+**Dataset with the addition of labels for types and categories of elements from paintings by Bob Ross**: See __[this Excel file](https://github.com/linetonthat/BobRossPaintings/blob/main/Treated_data/categorized_elements_by_episode.xlsx)__.
 
 ---
 Labels and categories for elements were manually defined:
