@@ -5,9 +5,9 @@ This is part of data preparation for MakeoverMonday 2020 Week 50. The topic is t
 ](https://github.com/linetonthat/BobRossPaintings/blob/main/Treated_data/categorized_elements_by_episode.xlsx)__.
 
 ---
-Labels and categories for elements were manually defined.
+Labels and categories for elements were manually defined:
 * Definitions: See "dict_elements" and "dict_categories" sheets from __[this Excel file](https://github.com/linetonthat/BobRossPaintings/blob/main/Treated_data/categorized_elements_by_episode.xlsx)__.
-* Labelling: See __[this notebook](https://github.com/linetonthat/BobRossPaintings/blob/main/Data_preparation/add_labels_for_types_and_categories_of_elements.ipynb)__
+* Labelling: See __[this notebook](https://github.com/linetonthat/BobRossPaintings/blob/main/Data_preparation/add_labels_for_types_and_categories_of_elements.ipynb)__.
 
 ---
 Source of data:
